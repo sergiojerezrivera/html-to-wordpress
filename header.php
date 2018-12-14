@@ -41,7 +41,7 @@
     <!--MENU CABECERA-->
     <div class="container-fluid bg-dark fixed-top">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark container">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="http://localhost:85/wordpress/">
                 <img src="images/bootstrap-solid.svg" width="30" height="30" alt="">
                 Bootstrap
             </a>
